@@ -1,0 +1,51 @@
+.wrapper {
+  font-family: 'Quicksand', sans-serif;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.text-logo {
+  font-family: 'Pacifico', cursive;
+  color: #546536;
+  text-decoration: none;
+}
+
+.text-medium {
+  font-size: 32px;
+  font-weight: normal;
+  line-height: 50px;
+  color: #2f3535;
+}
+
+.text-medium-logo {
+  font-size: 36px;
+  font-weight: normal;
+  line-height: 50px;
+  color: #2f3535;
+}
+
+.text-small {
+  font-size: 24px;
+  font-style: italic;
+  line-height: 100%;
+}
+
+.text-small-about {
+  font-size: 20px;
+  line-height: 40px;
+  font-weight: lighter;
+}
+
+.text-logo-small {
+  font-size: 12px;
+  line-height: 100%;
+  font-weight: normal;
+  opacity: 0.95;
+}
+
+.text-center {
+  text-align: center;
+}
+
+.text-bold {
+  font-weight: bold;
+}

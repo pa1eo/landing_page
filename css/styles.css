@@ -1,0 +1,41 @@
+.block-grey {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-color: #f1f5f8;
+}
+
+.block-grey-price {
+  padding-top: 10px;
+  padding-bottom: 10px;
+  background-color: #f1f5f8;
+}
+
+.block-grey-contacts {
+  background-color: #f1f5f8;
+}
+
+.buffer {
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+.buffer-top {
+  margin-top: 20px;
+
+}
+
+.buffer-medium {
+  padding-top: 60px;
+  padding-bottom: 60px;
+}
+
+.buffer-large {
+  padding-top: 80px;
+  padding-bottom: 80px;
+}
+
+.buffer-contact {
+  margin-top: 20px;
+  margin-bottom: 20px;
+  
+}
