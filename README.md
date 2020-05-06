@@ -1,3 +1,5 @@
-### Первый лендинг 
+### <h3>Первый лендинг<h3>
 
-Демо - [landing_page](https://paleo1og.github.io/landing_page/)
+Первая попытка лендинга без наполнения. Знакомство с технологиями
+
+Посмотреть демо - [landing_page]( https://pa1eo.github.io/landing_page/)
